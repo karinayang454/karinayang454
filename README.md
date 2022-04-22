@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @karinayang454
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Karina Yang, a sophomore at USC majoring in CS and minoring in Dance.
+- 👀 I’m interested in anything AI! Particularly the union of neuroscience + ML, AGI + NLP, and AI ethics. 
+- 🌱 I’m currently learning methods for fusing computer vision and deep survival analysis.
 - 📫 How to reach me ...
 
 <!---
