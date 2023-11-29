@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karina Yang, a junior at USC majoring in Computer Science💻 and minoring in Dance💃.
+- 👋 Hi, I’m Karina Yang, a senior at USC majoring in Computer Science💻 and minoring in Dance💃.
 - 👀 I’m interested in anything AI! Particularly the union of AGI + NLP, AI ethics and applied ML in medical settings. 
 - 📫 How to reach me: 📧 karinaya@usc.edu
 
